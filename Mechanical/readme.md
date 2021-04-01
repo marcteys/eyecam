@@ -6,6 +6,11 @@ The mechanical design of Eyecam result of a long iterative process. I used Blend
 
 If you want to reproduce the design in a proper CAO software (Fusion360), feel free to do it and share the 
 
+
+![Eyecam Hardware Image](https://raw.githubusercontent.com/marcteys/eyecam/main/Mechanical/pictures/hardware1.jpg)
+
+
+
 ## 3D Printed Files 
 
 The model has been printed in an Ender Pro 3 and an Ultimaker 5S. 
@@ -15,6 +20,7 @@ The folder `STL_export` contains all the different Eyecam pieces that you need t
 ### Printing
 The best printing settings are 0.16mm in height with a 0.4mm nozzle.  Pay attention to the orientation of the parts as well as adding some support exclusion to the tiny screw holes.
 
+![Eyecam](https://raw.githubusercontent.com/marcteys/eyecam/main/Mechanical/pictures/3dprint.jpg)
 
 
 ## 3D CAO Files 
@@ -32,7 +38,21 @@ Two main files are present in this folder.
 
 
 
+
+
+
 ## Hardware List 
+TBD
+
+
+## Step-by-Step 
+
+No step by step now, video incomming
+
+![Eyecam Hardware Image](https://raw.githubusercontent.com/marcteys/eyecam/main/Mechanical/pictures/eyecam_all.png)
+![Eyecam Hardware Image](https://raw.githubusercontent.com/marcteys/eyecam/main/Mechanical/pictures/eyecam_base.png)
+![Eyecam Hardware Image](https://raw.githubusercontent.com/marcteys/eyecam/main/Mechanical/pictures/eyecam_eye.png)
+
 
 
 TBD
