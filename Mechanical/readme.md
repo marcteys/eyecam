@@ -13,10 +13,7 @@ The model has been printed in an Ender Pro 3 and an Ultimaker 5S.
 The folder `STL_export` contains all the different Eyecam pieces that you need to print. 
 
 ### Printing
-
-I added the Cura sliced files in the `printer_ready` folder. Pay attention to the orientation of the parts as well as some "support exclusion" settings. 
-
-The best printing settings are 0.16mm in height with a 0.4mm nozzle. 
+The best printing settings are 0.16mm in height with a 0.4mm nozzle.  Pay attention to the orientation of the parts as well as adding some support exclusion to the tiny screw holes.
 
 
 
