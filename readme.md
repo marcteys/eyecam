@@ -2,6 +2,8 @@
 
 This is the open-source repository for Eyecam. This repository contains the files needed to reproduce the device, from hardware to software. 
 
+To know more about the projct, visit https://marcteyssier.com/projects/eyecam/
+
 **I am currently editing a video tutorial of the whole build process (*45minutes*).** This documentation lack step-by-step tutorials. 
 
 
